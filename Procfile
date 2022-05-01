@@ -1,1 +1,1 @@
-web: gunicorn vocab_extractor.vocab_extractor.wsgi
+web: gunicorn vocab_extractor.wsgi
